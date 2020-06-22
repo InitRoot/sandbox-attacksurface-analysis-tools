@@ -34,4 +34,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: SAndb ox
-        path: "D:/a/newbuild/"
+        path: "D:/a/sandbox-attacksurface-analysis-tools/sandbox-attacksurface-analysis-tools/bin/Release/"
